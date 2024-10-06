@@ -1,0 +1,7 @@
+USE MindBox;
+
+SELECT p.ProductName, c.CategoryName
+FROM SimpleTask.Products p
+LEFT JOIN SimpleTask.ProductCategories pc ON p.ProductID = pc.ProductID
+LEFT JOIN SimpleTask.Categories c ON pc.CategoryID = c.CategoryID
+ORDER BY p.ProductName, c.CategoryName;

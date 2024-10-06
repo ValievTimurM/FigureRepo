@@ -1,15 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.14
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLibrary", "FigureLibrary\FigureLibrary.csproj", "{434A210E-CD52-43E2-9031-14EAF90B6833}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureLibrary", "FigureLibrary\FigureLibrary.csproj", "{434A210E-CD52-43E2-9031-14EAF90B6833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLibrary.Tests", "FigureLibrary.Tests\FigureLibrary.Tests.csproj", "{5186EC93-1604-448F-949C-347AB34FBFA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureLibrary.Tests", "FigureLibrary.Tests\FigureLibrary.Tests.csproj", "{5186EC93-1604-448F-949C-347AB34FBFA3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4570DFCB-6769-49FC-9EB6-07EB59DFD743}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLTask", "SQLTask", "{4570DFCB-6769-49FC-9EB6-07EB59DFD743}"
 	ProjectSection(SolutionItems) = preProject
-		SqlTask.txt = SqlTask.txt
+		InitDatabase.txt = InitDatabase.txt
+		SqlRequest.txt = SqlRequest.txt
 	EndProjectSection
 EndProject
 Global
