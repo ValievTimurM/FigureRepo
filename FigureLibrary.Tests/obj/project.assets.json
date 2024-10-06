@@ -1003,32 +1003,40 @@
     ]
   },
   "packageFolders": {
-    "/Users/timur/.nuget/packages/": {}
+    "C:\\Users\\Пользователь\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timur/Projects/FigureLibrary/FigureLibrary.Tests/FigureLibrary.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Source\\Repos\\FigureRepo\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj",
       "projectName": "FigureLibrary.Tests",
-      "projectPath": "/Users/timur/Projects/FigureLibrary/FigureLibrary.Tests/FigureLibrary.Tests.csproj",
-      "packagesPath": "/Users/timur/.nuget/packages/",
-      "outputPath": "/Users/timur/Projects/FigureLibrary/FigureLibrary.Tests/obj/",
+      "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\FigureRepo\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj",
+      "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Пользователь\\Source\\Repos\\FigureRepo\\FigureLibrary.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/timur/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/timur/Projects/FigureLibrary/FigureLibrary/FigureLibrary.csproj": {
-              "projectPath": "/Users/timur/Projects/FigureLibrary/FigureLibrary/FigureLibrary.csproj"
+            "C:\\Users\\Пользователь\\Source\\Repos\\FigureRepo\\FigureLibrary\\FigureLibrary.csproj": {
+              "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\FigureRepo\\FigureLibrary\\FigureLibrary.csproj"
             }
           }
         }
@@ -1037,6 +1045,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1080,7 +1093,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

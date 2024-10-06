@@ -10,3 +10,15 @@
 /Users/timur/Projects/FigureLibrary/FigureLibrary/obj/Debug/net7.0/refint/FigureLibrary.dll
 /Users/timur/Projects/FigureLibrary/FigureLibrary/obj/Debug/net7.0/FigureLibrary.pdb
 /Users/timur/Projects/FigureLibrary/FigureLibrary/obj/Debug/net7.0/ref/FigureLibrary.dll
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\bin\Debug\net7.0\FigureLibrary.deps.json
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\bin\Debug\net7.0\FigureLibrary.dll
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\bin\Debug\net7.0\FigureLibrary.pdb
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\FigureLibrary.AssemblyInfo.cs
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\FigureLibrary.sourcelink.json
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\FigureLibrary.dll
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\refint\FigureLibrary.dll
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\FigureLibrary.pdb
+C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary\obj\Debug\net7.0\ref\FigureLibrary.dll

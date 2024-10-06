@@ -32,26 +32,4 @@ public class Tests
 
     Assert.That(area, Is.Not.EqualTo(31));
   }
-
-  [Test]
-  public void IsRightAngled_TriangleFactory_TriangleIsRightAngled()
-  {
-    factory = TriangleFactory.CreateFactory(5, 3, 4);
-    Figure figure = factory.CreateFigure();
-
-    bool result = (figure as Triangle).IsRightAngled();
-
-    Assert.IsTrue(result);
-  }
-
-  [Test]
-  public void IsRightAngled_TriangleFactory_TriangleIsNotRightAngled()
-  {
-    factory = TriangleFactory.CreateFactory(5, 3, 10);
-    Figure figure = factory.CreateFigure();
-
-    bool result = (figure as Triangle).IsRightAngled();
-
-    Assert.IsFalse(result);
-  }
 }

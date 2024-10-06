@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FigureLibrary.Tests
-build_property.ProjectDir = /Users/timur/Projects/FigureLibrary/FigureLibrary.Tests/
+build_property.ProjectDir = C:\Users\Пользователь\Source\Repos\FigureRepo\FigureLibrary.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
