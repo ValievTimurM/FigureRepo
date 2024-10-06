@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FigureLibrary.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+727b8b7b11c5441c22353786ebab8da83257c26f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f53c44eabb9b9c9a390db649ed37964351e2df41")]
 [assembly: System.Reflection.AssemblyProductAttribute("FigureLibrary.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FigureLibrary.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

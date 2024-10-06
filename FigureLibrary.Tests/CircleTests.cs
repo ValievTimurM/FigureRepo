@@ -4,7 +4,7 @@ using FigureLibrary.Models;
 
 namespace FigureLibrary.Tests;
 
-public class Tests
+public class CircleTests
 {
   EntityBaseFactory factory;
 
