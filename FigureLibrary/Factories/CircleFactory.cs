@@ -13,7 +13,7 @@ namespace FigureLibrary.Factories
 
     public static CircleFactory CreateFactory(double rad)
       => new CircleFactory() {
-        radius = rad
+        radius = Math.Abs(rad)
       };
   }
 }
